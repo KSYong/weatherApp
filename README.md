@@ -2,8 +2,8 @@
 
 
 ## Projects
-## 초보자들을 위한 주식앱 및 NFT 마켓 앱 앱 출시 계획 
-🗓 프로젝트 소개 : 초보자들을 위한 주식앱 !</br>
+## weatherApp
+🗓 프로젝트 소개 : 날씨 앱  !</br>
 🗓 기간 : 2022.08.03 ~   </br>
 🗓 팀원: [로이](https://github.com/Roy-wonji) ,[에릭](https://github.com/KSYong)</br>.[리아](https://github.com/est22)
 🗓 리뷰어:  

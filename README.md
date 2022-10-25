@@ -1,8 +1,8 @@
-#weatherApp
+# weatherApp
 
 
 ## Projects
-## weatherApp
+## 날씨 앱
 🗓 프로젝트 소개 : 날씨 앱  !</br>
 🗓 기간 : 2022.08.03 ~   </br>
 🗓 팀원: [로이](https://github.com/Roy-wonji) ,[에릭](https://github.com/KSYong) .[리아](https://github.com/est22) </br>

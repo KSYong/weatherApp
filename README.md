@@ -5,11 +5,11 @@
 ## weatherApp
 🗓 프로젝트 소개 : 날씨 앱  !</br>
 🗓 기간 : 2022.08.03 ~   </br>
-🗓 팀원: [로이](https://github.com/Roy-wonji) ,[에릭](https://github.com/KSYong)</br>.[리아](https://github.com/est22)
+🗓 팀원: [로이](https://github.com/Roy-wonji) ,[에릭](https://github.com/KSYong) .[리아](https://github.com/est22) </br>
 🗓 리뷰어:  
 
 ## 기획 
--[노션](https://cyber-patient-404.notion.site/1-iOS-with-at-the-791e36f87556461ebe570224d390d8e1)
+- [노션](https://cyber-patient-404.notion.site/1-iOS-with-at-the-791e36f87556461ebe570224d390d8e1)
 
 ## Commit 규칙
 > 커밋 제목은 최대 50자 입력 </br>

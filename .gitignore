@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/xcode,swift,carthage,cocoapods,swiftpackagemanager
-# Edit at https://www.toptal.com/developers/gitignore?templates=xcode,swift,carthage,cocoapods,swiftpackagemanager
+# Created by https://www.toptal.com/developers/gitignore/api/swift,swiftpackagemanager,cocoapods,carthage
+# Edit at https://www.toptal.com/developers/gitignore?templates=swift,swiftpackagemanager,cocoapods,carthage
 
 ### Carthage ###
 # Carthage
@@ -106,17 +106,4 @@ xcuserdata
 *.xcodeproj
 
 
-### Xcode ###
-
-## Xcode 8 and earlier
-
-### Xcode Patch ###
-*.xcodeproj/*
-!*.xcodeproj/project.pbxproj
-!*.xcodeproj/xcshareddata/
-!*.xcodeproj/project.xcworkspace/
-!*.xcworkspace/contents.xcworkspacedata
-/*.gcno
-**/xcshareddata/WorkspaceSettings.xcsettings
-
-# End of https://www.toptal.com/developers/gitignore/api/xcode,swift,carthage,cocoapods,swiftpackagemanager
+# End of https://www.toptal.com/developers/gitignore/api/swift,swiftpackagemanager,cocoapods,carthage
